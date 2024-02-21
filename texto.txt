@@ -1,0 +1,9 @@
+npx tsc --init => cria o arquivo tsconfig.json
+tsconfig.json é onde fica as configurações do nosso typscript 
+
+"rootdir" => é a pasta que vai estar os nossos arquivos .ts
+"outdir" => é a pasta que vai estar os nossos aquivos compilados .js
+
+npx tsc => compila todos os arquivos ou posso especificar o arquivo
+
+ts-node <arquivo> => executa diretamente o arquivo .ts
